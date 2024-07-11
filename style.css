@@ -170,3 +170,8 @@ section .card-bh {
         opacity: 0;
     }
 }
+
+button:hover {
+    background-color: #8ec738;
+    cursor: pointer;
+}
